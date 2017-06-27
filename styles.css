@@ -1,0 +1,47 @@
+* {
+    text-align: center;
+}
+
+body {
+  background-color: #8b0000;
+}
+
+h1 {
+  color: #8b0000;
+  font-family: serif;
+  padding-top: 20px;
+  padding-bottom: 0px;
+}
+
+img {
+  padding: 20px;
+  border-radius: 50%;
+}
+
+#page {
+  padding-left: 20px;
+  background-color: #deb887;
+  border-radius: 25px;
+}
+
+li {
+    text-align: left;
+}
+
+#quote {
+  color: black;
+  padding-bottom: 30px;
+  font-family: sans-serif;
+}
+
+p {
+  text-align: center;
+  font-size: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  padding-bottom: 30px;
+}
+
+.blueText {
+    color: blue;
+}
